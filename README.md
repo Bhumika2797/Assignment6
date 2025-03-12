@@ -18,7 +18,7 @@
 11.	Implement BST Level Order Traversal using Queue (BFS)</br>
 12.	Implement Graph BFS using Queue</br>
 ________________________________________
-** Array-Based Implementations:-**</br>
+**Array-Based Implementations:-**</br>
 13.	Implement Stack using an Array</br>
 14.	Implement Queue using an Array</br>
 15.	Implement Circular Queue using an Array</br>
@@ -42,7 +42,7 @@ ________________________________________
 31.	Implement BST using Linked List (Flattened Representation)</br>
 32.	Implement Graph using Linked List (Adjacency List)</br>
 ________________________________________
-** Heap-Based Implementations:-**</br>
+**Heap-Based Implementations:-**</br>
 33.	Implement Priority Queue using Heap</br>
 34.	Implement Min Heap using Max Heap</br>
 35.	Implement Max Heap using Min Heap</br>
@@ -64,7 +64,7 @@ ________________________________________
 47.	Implement Trie using Hash Table</br>
 48.	Implement Graph using Hash Table (Adjacency List Representation)</br>
 ________________________________________
-** Graph-Based Implementations:-**</br>
+**Graph-Based Implementations:-**</br>
 49.	Implement Graph using Adjacency List (HashMap or Array of Lists)</br>
 50.	Implement Graph using Adjacency Matrix (2D Array)</br>
 51.	Implement BFS using Graph + Queue</br>
